@@ -1,1 +1,1 @@
-# MinimalJWT
+# MinimalAPIAuth-Swagger
